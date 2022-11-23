@@ -26,7 +26,7 @@
 
 .
 
-**New rendering settings (cnc-ddraw)**
+**New rendering settings (cnc-ddraw) - by [FunkyFr3sh](https://github.com/FunkyFr3sh)**
 
 The game will now run by default in borderless mode, use **cnc-ddraw config.exe** to configure your rendering settings.
 
