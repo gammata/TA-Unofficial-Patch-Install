@@ -1,11 +1,11 @@
 
 **Downloads**
 
-[OTA.Dropin.Install.zip](https://github.com/vThaldren/TA-Unofficial-Patch-Install/raw/main/OTA.Dropin.Install.zip)
-[ProTA.Dropin.Install.zip](https://github.com/vThaldren/TA-Unofficial-Patch-Install/raw/main/ProTA.Dropin.Install.zip)
-[ESCALATION.Dropin.Install.zip](https://github.com/vThaldren/TA-Unofficial-Patch-Install/raw/main/ESCALATION.Dropin.Install.zip)
-[MAYHEM.Dropin.Install.zip](https://github.com/vThaldren/TA-Unofficial-Patch-Install/raw/main/MAYHEM.Dropin.Install.zip)
-[TWILIGHT.Dropin.Install.zip](https://github.com/vThaldren/TA-Unofficial-Patch-Install/raw/main/TWILIGHT.Dropin.Install.zip)
+[OTA.Dropin.Install.zip](https://github.com/vThaldren/TA-Unofficial-Patch-Install/raw/main/OTA.Dropin.Install.zip)\
+[ProTA.Dropin.Install.zip](https://github.com/vThaldren/TA-Unofficial-Patch-Install/raw/main/ProTA.Dropin.Install.zip)\
+[ESCALATION.Dropin.Install.zip](https://github.com/vThaldren/TA-Unofficial-Patch-Install/raw/main/ESCALATION.Dropin.Install.zip)\
+[MAYHEM.Dropin.Install.zip](https://github.com/vThaldren/TA-Unofficial-Patch-Install/raw/main/MAYHEM.Dropin.Install.zip)\
+[TWILIGHT.Dropin.Install.zip](https://github.com/vThaldren/TA-Unofficial-Patch-Install/raw/main/TWILIGHT.Dropin.Install.zip)\
 [ZERO.Dropin.Install.zip](https://github.com/vThaldren/TA-Unofficial-Patch-Install/raw/main/ZERO.Dropin.Install.zip)
 
 .
