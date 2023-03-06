@@ -21,7 +21,7 @@
 **Update packages for existing mod installations**
 
 1. Install the game and your chosen mod
-2. Download the 'MOD'.Dropin.Install.zip update package for your chosen mod (see links below) and extract it into your game folder
+2. Download the 'MOD'.Dropin.Install.zip update package for your chosen mod (see links above) and extract it into your game folder
 3. Start TotalA.exe
 
 .
